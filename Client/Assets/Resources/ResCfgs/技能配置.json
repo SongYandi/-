@@ -1,0 +1,94 @@
+{
+  "Goutou": [
+    {
+      "SkillID": "11",
+      "adDamage": 100,
+      "adDamageGrowth": 50,
+      "apDamage": 50,
+      "apDamageGrowth": 50,
+      "consumeMP": 20,
+      "consumeMPGrowth": 20,
+      "skillName": "汲魂痛击",
+      "cd": 14
+    },
+    {
+      "SkillID": "12",
+      "adDamage": 0,
+      "adDamageGrowth": 0,
+      "apDamage": 0,
+      "apDamageGrowth": 0,
+      "consumeMP": 40,
+      "consumeMPGrowth": 20,
+      "skillName": "枯萎",
+      "cd": 20
+    },
+    {
+      "SkillID": "13",
+      "adDamage": 50,
+      "adDamageGrowth": 50,
+      "apDamage": 100,
+      "apDamageGrowth": 50,
+      "consumeMP": 40,
+      "consumeMPGrowth": 20,
+      "skillName": "灵魂烈焰",
+      "cd": 18
+    },
+    {
+      "SkillID": "14",
+      "adDamage": 50,
+      "adDamageGrowth": 50,
+      "apDamage": 100,
+      "apDamageGrowth": 50,
+      "consumeMP": 100,
+      "consumeMPGrowth": 20,
+      "skillName": "死神降临",
+      "cd": 120
+    }
+  ],
+  "Zhaoxin": [
+    {
+      "SkillID": "21",
+      "adDamage": 20,
+      "adDamageGrowth": 10,
+      "apDamage": 0,
+      "apDamageGrowth": 0,
+      "consumeMP": 20,
+      "consumeMPGrowth": 20,
+      "skillName": "三重爪击",
+      "cd": 8
+    },
+    {
+      "SkillID": "22",
+      "adDamage": 0,
+      "adDamageGrowth": 0,
+      "apDamage": 0,
+      "apDamageGrowth": 0,
+      "consumeMP": 40,
+      "consumeMPGrowth": 20,
+      "skillName": "风斩电刺",
+      "cd": 20
+    },
+    {
+      "SkillID": "23",
+      "adDamage": 100,
+      "adDamageGrowth": 50,
+      "apDamage": 50,
+      "apDamageGrowth": 50,
+      "consumeMP": 40,
+      "consumeMPGrowth": 20,
+      "skillName": "无畏冲锋",
+      "cd": 12
+    },
+    {
+      "SkillID": "24",
+      "adDamage": 100,
+      "adDamageGrowth": 20,
+      "apDamage": 100,
+      "apDamageGrowth": 50,
+      "consumeMP": 100,
+      "consumeMPGrowth": 20,
+      "skillName": "新月护卫",
+      "cd": 60
+    }
+  ]
+}

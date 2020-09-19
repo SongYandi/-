@@ -1,0 +1,12 @@
+D:\WorkSpace\Unity\Projects\XuanjiShengCun\Server\Server\bin\Debug\Server.exe.config
+D:\WorkSpace\Unity\Projects\XuanjiShengCun\Server\Server\bin\Debug\Server.exe
+D:\WorkSpace\Unity\Projects\XuanjiShengCun\Server\Server\bin\Debug\Server.pdb
+D:\WorkSpace\Unity\Projects\XuanjiShengCun\Server\Server\bin\Debug\PEProtocol.dll
+D:\WorkSpace\Unity\Projects\XuanjiShengCun\Server\Server\bin\Debug\PESocket.dll
+D:\WorkSpace\Unity\Projects\XuanjiShengCun\Server\Server\bin\Debug\PEProtocol.pdb
+D:\WorkSpace\Unity\Projects\XuanjiShengCun\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\WorkSpace\Unity\Projects\XuanjiShengCun\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Unity\Projects\XuanjiShengCun\Server\Server\obj\Debug\Server.csproj.CopyComplete
+D:\WorkSpace\Unity\Projects\XuanjiShengCun\Server\Server\obj\Debug\Server.exe
+D:\WorkSpace\Unity\Projects\XuanjiShengCun\Server\Server\obj\Debug\Server.pdb
+D:\WorkSpace\Unity\Projects\XuanjiShengCun\Server\Server\bin\Debug\MySql.Data.dll

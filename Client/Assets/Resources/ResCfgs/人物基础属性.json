@@ -1,0 +1,42 @@
+[
+  {
+    "heroName": "Zhaoxin",
+    "level": 1,
+    "exp": 0,
+    "coin": 300,
+    "hp": 561,
+    "hpGrowth": 90,
+    "mp": 325,
+    "mpGrowth": 45,
+    "ad": 53,
+    "adGrowth": 3,
+    "ap": 0,
+    "critical": 0,
+    "addef": 24,
+    "addefGrowth": 3,
+    "apdef": 32,
+    "apdefGrowth": 3,
+    "attackSpeed": 0.68,
+    "moveSpeed": 90
+  },
+  {
+    "heroName": "Goutou",
+    "level": 1,
+    "exp": 0,
+    "coin": 300,
+    "hp": 561,
+    "hpGrowth": 90,
+    "mp": 325,
+    "mpGrowth": 45,
+    "ad": 53,
+    "adGrowth": 3,
+    "ap": 0,
+    "critical": 0,
+    "addef": 24,
+    "addefGrowth": 3,
+    "apdef": 32,
+    "apdefGrowth": 3,
+    "attackSpeed": 0.68,
+    "moveSpeed": 90
+  }
+]
